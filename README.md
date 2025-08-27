@@ -9,7 +9,7 @@
 
 📍 **Location:** London, UK  
 🎯 **Focus:** Machine Learning, Embedded Systems, IoT Development  
-🔬 **Research:** Hypercomplex (Quaternion) Machine Learning with FPGA  
+🔬 **Research:** Quaternion Machine Learning with FPGA  
 📧 **Contact:** [oumar.butt@gmail.com](mailto:oumar.butt@gmail.com)
 
 <!--
